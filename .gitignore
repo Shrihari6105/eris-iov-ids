@@ -1,0 +1,11 @@
+# CICIoV2024 dataset - download from the source, don't commit
+hexadecimal_*.csv
+# model checkpoints
+results/ckpt/
+results/model/
+ckpt/
+model/
+# misc
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/

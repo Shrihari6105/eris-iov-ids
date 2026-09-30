@@ -1,0 +1,7 @@
+class,patterns,train,val,test
+BENIGN,3547,2483,532,532
+DoS,21,15,3,3
+GAS,2,1,0,1
+RPM,10,6,2,2
+SPEED,5,3,1,1
+STEERING_WHEEL,3,1,1,1
