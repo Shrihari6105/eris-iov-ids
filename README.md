@@ -1,8 +1,7 @@
 # ERIS — Explainable, Risk-aware IDS for the Internet of Vehicles
 
-BTech Project-I (BCSE497J), VIT Vellore. This repo holds the **T5 CAN-bus intrusion detector**, the classification stage of ERIS. It extends the LLM-based integrated IDS of Aishwarya et al. (2025). The explainability and risk-assessment stages are in progress.
+This repo holds the **T5 CAN-bus intrusion detector**, the classification stage of ERIS. It extends the LLM-based integrated IDS of Aishwarya et al. (2025). The explainability and risk-assessment stages are in progress.
 
-Team: Arya Kiran Parge · Kuriak Tom Jacob · Shrihari V — Guide: Selvi M
 
 ## What it does
 
